@@ -1,0 +1,14 @@
+{
+	"function": "copy_nbt",
+	"source": {
+		"type": "storage",
+		"source": "tiny_crafter:"
+	},
+	"ops": [
+		{
+			"source": "init",
+			"target": "TinyCrafter.Slot",
+			"op": "replace"
+		}
+	]
+}

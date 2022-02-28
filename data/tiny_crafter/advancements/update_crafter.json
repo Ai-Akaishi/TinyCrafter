@@ -1,0 +1,20 @@
+{
+	"criteria": {
+		"update": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:bundle"
+						],
+						"nbt": "{TinyCrafter:{}}"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "tiny_crafter:update_crafter/"
+	}
+}
