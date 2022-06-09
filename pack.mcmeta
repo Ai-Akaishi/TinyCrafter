@@ -1,6 +1,6 @@
 {
     "pack":{
-        "pack_format": 8,
-        "description": "TinyCrafter"
+        "pack_format": 10,
+        "description": "TinyCrafter = An Axolotl in Bundle is a tiny crafter!!"
     }
 }
